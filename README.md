@@ -8,7 +8,7 @@ Clemson University, University of Minnesota
 
 # Instructions
 This software has been tested on Windows 7 and 10 with Visual Studio 2015. <br/>
-It depends on [Eigen3](eigen.tuxfamily.org/) and [callisto](www.nieuwenhuisen.nl/callisto/), 
+It depends on [Eigen](eigen.tuxfamily.org/) and [callisto](www.nieuwenhuisen.nl/callisto/), 
 which are included in the code. Callisto is used for visualization purposes and requires DirectX 9.0c. 
 If you want to compile the code with x64 support, you should disable the visualizer. <br/>
 
